@@ -29,7 +29,7 @@ This project predicts yearly customer spending based on their activity on an e-c
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 * **Scatterplots** to explore relationships (e.g. Time on App vs Yearly Spending)
 * **Barplots** to analyze binned behavior
@@ -51,7 +51,7 @@ This project predicts yearly customer spending based on their activity on an e-c
 * Used pipelines with standard scaling
 * Compared metrics: MAE, MSE, RMSE, R2
 
-### ⚖ Multicollinearity Check
+### Multicollinearity Check
 
 * Used **Variance Inflation Factor (VIF)** to ensure no multicollinearity among features
 
