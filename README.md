@@ -73,3 +73,17 @@ This project predicts yearly customer spending based on their activity on an e-c
 
 ---
 
+This project builds and deploys a machine learning model to predict yearly e-commerce customer spending based on usage metrics like session length, time on app, and membership duration.
+
+Key highlights:
+
+Model Used: Linear Regression (with comparisons to Ridge & Lasso)
+
+Best Model R² Score: 0.98, indicating a strong predictive fit
+
+Mean Absolute Error (MAE): 7.54
+
+Root Mean Squared Error (RMSE): 9.36
+
+
+
